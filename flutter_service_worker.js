@@ -18,9 +18,9 @@ const RESOURCES = {
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "4b6a9b7c20913279a3ad3dd9c96e155b",
 "assets/AssetManifest.json": "7884eb66f658e1e02646d32d02046b6f",
 "assets/NOTICES": "f7e0371f5156220112841032d4ee7d2d",
-"main.dart.js": "028028d22ad0fbae68307d27bb35ba6a",
-"index.html": "4aa002b96a1877cabb743c8c9c72ab5e",
-"/": "4aa002b96a1877cabb743c8c9c72ab5e"
+"main.dart.js": "70c227f52bb9715dcef020b99748dd1b",
+"index.html": "5cbaf0a501580bad15a61f842bef3474",
+"/": "5cbaf0a501580bad15a61f842bef3474"
 };
 
 // The application shell files that are downloaded before a service worker can
